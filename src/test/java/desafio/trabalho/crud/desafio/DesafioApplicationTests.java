@@ -1,10 +1,10 @@
-package com.project.projetospring2024;
+package desafio.trabalho.crud.desafio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetoSpring2024ApplicationTests {
+class DesafioApplicationTests {
 
 	@Test
 	void contextLoads() {

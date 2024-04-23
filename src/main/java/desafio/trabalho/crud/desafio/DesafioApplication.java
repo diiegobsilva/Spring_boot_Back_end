@@ -1,13 +1,13 @@
-package com.project.projetospring2024;
+package desafio.trabalho.crud.desafio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoSpring2024Application {
+public class DesafioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoSpring2024Application.class, args);
+		SpringApplication.run(DesafioApplication.class, args);
 	}
 
 }
